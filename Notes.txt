@@ -1,2 +1,0 @@
-September, 2026.
-I'm starting to learn C and about it's memory management
