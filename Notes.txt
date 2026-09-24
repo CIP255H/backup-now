@@ -1,3 +1,2 @@
-Just wanted to told y'all that my contributions on the project was less than 50% (42%) i think cause im using so many projects that scattered on the internet and use Claude and ChatGPT to fix what im doing and perfect it.
-
-That's why on the 4th version i change the theme to look alike Claude UI. Oh yeah, i forgot to mention that i will NOT add any other cloud features in the app cause i forgot it was local hosted
+September, 2026.
+I'm starting to learn C and about it's memory management
